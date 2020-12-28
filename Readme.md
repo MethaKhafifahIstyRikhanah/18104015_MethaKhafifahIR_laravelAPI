@@ -4,13 +4,13 @@ yang harus di siapkan adalah : <ol>
 <li> Composer.</li>
 <li> Laravel.</li>
 <li> Kode editor.</li>
-<li> Postman ataupun aplikasi SOAP dan REST lainnya, saya sih menggunakan postman.</li>
+<li> Postman.</li>
 </ol>
 
 
-<p>Pertama jika anda belum menginstal composer anda dapat mendownloadnya diweb
-resmi composer itu disini, untuk windows bisa langsung download file dengan
-ekstensi.exe dan install seperti aplikasi pada umumn</p>
+<p>Pertama jika anda belum menginstal composer maka anda dapat mendownloadnya diweb
+resmi composer, untuk windows bisa langsung download file dengan
+ekstensi.exe dan install seperti aplikasi pada umumnya</p>
 
 <h3>Penggunaan database</h3><ol>
 <li> Membuat database di berinama</li>
@@ -23,7 +23,7 @@ ekstensi.exe dan install seperti aplikasi pada umumn</p>
 <li> Menentukan Route agar pemanggilan alamat perinah pada poshman bisa terbaca</li>
 </ol>
 <h3>Postman</h3><br><ol>
-<li> Sigunakan untuk mengetahui data sudah bisa di gunakan seperti RESTfull API</li>
+<li> Digunakan untuk mengetahui data sudah bisa di gunakan seperti RESTfull API</li>
 <li> Setiap URL melalui route di laravel</li>
 <li> Manipulasi data</li>
 </ol>
